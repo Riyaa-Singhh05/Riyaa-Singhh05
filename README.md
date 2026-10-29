@@ -1,14 +1,13 @@
 ## Hi, I'm Riya 👋
 
-🎓 Alumni - Class of 2026 | ⚖️ LegalTech Builder
+🎓 Shri Ramswaroop Memorial University - Class of 2026 | ⚖️ Smart Contract Builder
 
-💼 Currently working with a startup - building tools to make contracts compliant with Indian law
+💼 Working with a startup | Building for HackIndia Hackathon
 
-🚀 What I'm building at HackIndia:
-- AI tool that converts US-style contracts to Indian law (Section 27, Non-compete etc.)
-- Research on Indian Contract Act vs US contracts
+🚀 My Hackathon Project: Smart Contract Creation
+- Building automated smart contracts that are compliant with Indian Law
+- Focus: Making legal contracts into secure, easy to draft and reliable
+- Tech: Research on Indian Contract Act + Blockchain
 
-🌱 Learning: Product, LegalTech, GitHub
-📫 Connect: hackindia.org/profile/riya_singh2
-
-> "Making legal research simple for Indian startups"
+🌱 Learning: Solidity, Smart Contracts, LegalTech
+📫 Connect with me: hackindia.org/profile/riya_singh2
